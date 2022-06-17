@@ -1,2 +1,2 @@
 # calculator
-Add, multiply, division, sub with history 
+Add, sub, multiply, division with calculation history  
